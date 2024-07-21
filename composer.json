@@ -1,11 +1,11 @@
 {
-    "name": "lxc939134342/think-addons",
+    "name": "cdooow/think-addons",
     "description": "The ThinkPHP8 Addons Package",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "lxc939134342",
-            "email": "939134342@qq.com"
+            "name": "cdooow",
+            "email": "cdooow@qq.com"
         }
     ],
     "require": {
